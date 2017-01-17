@@ -1,4 +1,5 @@
 import React from 'react';
+import MrBase from './MrBase';
 import ReactDOM from 'react-dom';
 import App from './App';
 import './index.css';
