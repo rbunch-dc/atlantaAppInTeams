@@ -24,5 +24,9 @@ class App extends Component {
 
 export default App;
 
+<<<<<<< HEAD
 
 Blah Blah Blah
+=======
+A comment for the ages!
+>>>>>>> eab529950881dd11c46245b2871f4999129f2ed4
